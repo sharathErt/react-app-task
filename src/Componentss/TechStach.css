@@ -1,0 +1,87 @@
+.TechStacks {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .tech-stack {
+    /* border: 2px solid #007bff; */
+    padding: 20px;
+    margin: 20px;
+  }
+  
+  .tech-stack h1 {
+    margin-bottom: 20px;
+    font-weight:lighter;
+  }
+
+  .line6{
+    width: 69px;
+height: 5px;
+gap: 0px;
+opacity: 0px;
+background: linear-gradient(225deg, #F76680 0%, #57007B 100%);
+margin-left: 40rem;
+  }
+   
+  .tech-stack span {
+    margin-bottom: 20px;
+    font-weight:bold;
+  }
+  
+  .categories {
+    display: flex;
+    justify-content:center;
+    /* border-top: 2px solid #007bff; */
+    padding-top: 10px;
+    width: Hug (766px)px;
+height: Hug (31px)px;
+gap: 20px;
+opacity: 0px;
+align-content: center;
+  }
+  
+  .category {
+    padding: 10px;
+    border-bottom: 2px solid transparent;
+  }
+  
+  .category:hover {
+    border-bottom: 2px solid #F76680;
+  }
+  
+  .tech-icons {
+    display: flex;
+    justify-content:center;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    width: Hug (1,064px)px;
+height: Hug (218px)px;
+top: 8797px;
+margin-left: 100px;
+gap: 80px;
+opacity: 0px;
+
+  }
+
+  .tech-icon-inner{
+   padding: 15px;
+gap: 10px;
+opacity: 0px;
+margin-top: 2rem;
+display: flex;
+justify-content: center;
+  }
+  
+  .tech-icons img {
+    /* margin: 10px;
+    width: 100px;
+    height: auto; */
+    width: 120.85px;
+/* height: 30.89px; */
+top: 31.33px;
+left: 18px;
+gap: 0px;
+opacity: 0px;
+
+  }
+  

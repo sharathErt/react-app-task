@@ -1,0 +1,153 @@
+
+.services {
+  text-align: center;
+  background-color: #f9f9f9;
+  width: 1499px;
+  margin-top: -30px;
+
+}
+
+.services h2 {
+  font-size: 32px;
+  margin-bottom: 40px;
+  /* width: 1000px; */
+  margin-top: 1px;
+}
+
+.services-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  justify-content: center;
+  gap: 4.2rem;
+  /* flex-wrap: wrap; */
+  overflow: hidden;
+  /* margin-left: -16rem; */
+}
+
+.service-item {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 300px;
+  text-align: start;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.service-item:hover {
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+}
+
+.service-item img {
+  width: 42px;
+  height: 42px;
+  margin-bottom: 20px;
+}
+
+.service-item h3 {
+  font-size: 20px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.service-item p {
+  font-size: 16px;
+  color: #666;
+}
+
+/* .gd1 {
+  background-image: linear-gradient(225deg, #f76680, #57007b);
+  border-radius: 36px;
+  width: 5%;
+  height: 72px;
+  margin-top: -50px;
+  /* z-index: 1; */
+  /* margin-right: auto; */
+/* } */ 
+
+.gd {
+  height: 72px; 
+  text-align: center; 
+}
+
+.gd1 {
+  display: block;
+  background-image: linear-gradient(225deg, #f76680, #57007b);
+  border-radius: 36px;
+  width: 5%;
+  height: 72px;
+  margin: 0 auto; 
+  
+}
+.gdd {
+  margin-top: 10px;
+  height: 72px; 
+  transform: translateY(-50%);
+}
+
+.gd11 {
+  display: block;
+  background-image: linear-gradient(225deg, #f76680, #57007b);
+  border-radius: 36px;
+  width: 5%;
+  height: 72px;
+}
+
+
+
+
+
+
+.slide {
+  margin-left: 62rem;
+  padding: 20px;
+  margin-top: -36px;
+}
+
+.nodes {
+  width: Hug (102px) px;
+  height: Hug (18px) px;
+  top: 1428px;
+  left: 669px;
+  gap: 8px;
+  opacity: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.ellipse2,
+.ellipse3,
+.ellipse4,
+.ellipse5 {
+  width: 13px;
+  height: 13px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  border: 1px solid #cbd5e0;
+  border-radius: 50%;
+}
+
+.ellipse1 {
+  width: 18px;
+  height: 18px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  background: linear-gradient(225deg, #f76680 0%, #57007b 100%);
+  border: 1px solid #ffffff;
+  border-radius: 50%;
+}
+
+.circle {
+  width: 58px;
+  height: 58px;
+  gap: 0px;
+  opacity: 0px;
+  background: #ffffff;
+  border: 0.5px solid #f76680;
+  border-radius: 50%;
+  padding: 5px;
+}

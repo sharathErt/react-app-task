@@ -1,0 +1,144 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F7F7FA;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  h2 {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 40px;
+
+font-family: Inter;
+font-size: 35px;
+font-weight: 400;
+line-height: 55px;
+text-align: center;
+color: #1A202C;
+
+  }
+  
+  h2 span {
+    color: #1A202C;
+    
+font-family: Inter;
+font-size: 35px;
+font-weight: 700;
+line-height: 55px;
+text-align: center;
+
+  }
+  
+  .case-study2 {
+    display: flex;
+    align-items: flex-start;
+    background-color: #fff;
+    /* border: 1px solid #E7DAED; */
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .case-study2.left {
+    flex-direction: row;
+  }
+  
+  .case-study2.right {
+    flex-direction: row-reverse;
+  }
+  
+  .case-study2 img {
+    width: 500px;
+    height: auto;
+    margin-right: 20px;
+    border-radius: 10px;
+  }
+  
+  .case-study2.right img {
+    margin-right: 0;
+    margin-left: 20px;
+  }
+  
+  .text2 {
+    flex: 1;
+  }
+  
+  .text2 h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+
+color: #1A202C;
+font-family: Inter;
+font-size: 28px;
+font-weight: 600;
+line-height: 38.09px;
+text-align:start;
+
+  }
+  
+  .text2 p {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 20px;
+
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+
+  }
+  
+  blockquote {
+    font-style: italic;
+    color: #F76680;
+    margin: 20px 0;
+
+  }
+  /* blockquote p{
+   color:  #F76680;
+   font-family: Inter;
+font-size: 16px;
+font-style: italic;
+font-weight: 300;
+line-height: 30px;
+text-align: left;
+
+  } */
+   blockquote p {
+  color: #ff4081; /* Apply specific color to blockquote paragraph */
+}
+  
+  blockquote footer {
+    font-size: 14px;
+    color:#F76680;
+    margin-top: 10px;
+
+  }
+  
+  blockquote strong {
+    font-weight: bold;
+  }
+  
+
+  .line3{
+    width: 69px;
+height: 5px;
+gap: 0px;
+opacity: 0px;
+background: linear-gradient(225deg, #F76680 0%, #57007B 100%);
+margin-left: 36rem;
+  }
+
+
+
+
+
+  

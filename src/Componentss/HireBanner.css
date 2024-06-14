@@ -1,0 +1,133 @@
+/* .hire-banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1230px;
+    height: 285px;
+    background: #f0f4ff;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.text-container {
+    max-width: 60%;
+}
+
+.text-container h1 {
+    font-size: 36px;
+    color: #333;
+}
+
+.button-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hire-button {
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    border: none;
+    border-radius: 25px;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+}
+
+.rays {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    background: #ffb347;
+}
+
+.ray {
+    position: absolute;
+    width: 31.81px;
+    height: 6.98px;
+    background: #ffb347;
+    border-radius: 10px 0 0 0;
+    opacity: 1;
+
+    
+} */
+
+
+.containerH {
+    width: 1230px;
+    height: 250px;
+    border: 1px solid #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background: linear-gradient(to right, #e0eaff, #dfe4eb);
+    border-radius: 20px;
+    margin: auto;
+
+  }
+  
+  .contentH {
+    display: flex;
+    align-items: center;
+  }
+  
+  .contentH h1 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #333;
+    margin-left: 2.5rem;
+  }
+  
+  .button-containerH {
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+  
+  .hire-buttonH {
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    position: relative;
+    z-index: 1;
+    margin-left: -20.5rem;
+  }
+  
+  .button-linesH {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+    margin-top: -3rem;
+    transform: translateY(-50%);
+    /* right: -30px;  */
+    margin-left: -19rem;
+  }
+  
+  .lineH {
+    width: 2px;
+    height: 15px;
+    background: #feb47b;
+    z-index: 1;
+  }
+  
+  .line.up {
+    margin-bottom: 3px;
+  }
+  
+  .line.down {
+    margin-top: 3px;
+  }
+  

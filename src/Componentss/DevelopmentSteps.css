@@ -1,0 +1,124 @@
+   .App {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .headerDev h1 {
+    margin: 0;
+    font-size: 2.5em;
+    font-weight: bold;
+  }
+  
+  .headerDev h2 {
+    margin: 0;
+    font-size: 1.5em;
+    font-weight: normal;
+  }
+  
+  .process {
+    position: relative;
+    margin-top: 40px;
+  }
+  
+  .steps {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 5px;
+    gap: 29px;
+  }
+  
+  .step {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 28%;
+    margin: 10px;
+    padding: 22px;
+    box-sizing: border-box;
+    position: relative;
+    
+  }
+  
+  .step-content h3 {
+    color: #57007B;
+    font-size: 1.2em;
+    margin-top: 0;
+  }
+  
+  .step-content p {
+    font-size: 0.9em;
+    color: #333;
+  }
+  
+  
+  .line.horizontal {
+    position: absolute;
+    top: 35%;
+    left: -2%;
+    width: 90%;
+    height: 2px;
+    background: linear-gradient(to right, #F76680, #57007B);
+    transform: translateY(-50%);
+    z-index: 1;
+  }
+  
+  .vertical-line {
+    position: absolute;
+    bottom: -25px;
+    left: 50%;
+    width: 2px;
+    height: 25px;
+    background: linear-gradient(to bottom, #F76680, #57007B);
+    transform: translateX(-50%);
+    
+  }
+  .vertical-lineB {
+    position: absolute;
+    margin-top: -179px;
+    margin-left: 50%;
+    width: 2px;
+    height: 25px;
+    background: linear-gradient(to bottom, #F76680, #57007B);
+    transform: translateX(-50%);
+    
+  }
+  .vertical-lineB2{
+    position: absolute;
+    margin-top: -179px;
+    margin-left: 50%;
+    width: 2px;
+    height: 25px;
+    background: linear-gradient(to bottom, #F76680, #57007B);
+    transform: translateX(-50%);
+  }
+   .vertical-lineB3{
+    color: #F76680;
+    position: absolute;
+    margin-top: -9.9rem;
+    margin-left: 50%;
+    width: 2px;
+    height: 25px;
+    background: linear-gradient(to bottom, #F76680, #57007B);
+    transform: translateX(-50%);
+    
+  }
+  .trophy {
+    position: absolute;
+    /* bottom: 0; */
+    right: 0;
+    /* width: 50px;
+    height: auto; */
+    margin-top: -15rem;
+    /* margin-left: auto; */
+    width: 42px;
+height: 42px;
+/* top: 9603px; */
+margin-left: 1295px;
+gap: 5px;
+opacity: 0px;
+
+  }
+  

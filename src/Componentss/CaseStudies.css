@@ -1,0 +1,165 @@
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    /* border: 1px solid #E7DAED */
+  }
+  
+  h2 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 40px;
+font-family: Inter;
+font-size: 35px;
+font-weight: 400;
+line-height: 55px;
+text-align: center;
+
+  }
+  
+  h2 span {
+    color: #22161a;
+ 
+font-family: Inter;
+font-size: 35px;
+font-weight: 700;
+line-height: 55px;
+text-align: center;
+
+  }
+  
+  .case-study {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border: 1px solid #E7DAED;
+    margin-bottom:10px;
+    padding: 20px;
+    /* border-radius: 0px, 30px, 30px, 0px */
+  }
+
+  .line3{
+    width: 69px;
+height: 5px;
+gap: 0px;
+opacity: 0px;
+background: linear-gradient(225deg, #F76680 0%, #57007B 100%);
+margin-left: 36rem;
+  }
+
+  /* .circle2{
+    width: 18px;
+height: 18px;
+top: 3587px;
+margin-left: 320px;
+gap: 0px;
+opacity: 0px;
+background: linear-gradient(225deg, #F76680 0%, #57007B 100%);
+border-radius: 50%;
+  } */
+  
+  .case-study img {
+    /* width: 150px;
+    height: auto; */
+    margin-right: 20px;
+    width: 601px;
+height: 416px;
+top: 3814px;
+left: 104px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+
+  }
+  
+  .text {
+    flex: 1;
+    width: Hug (529px)px;
+height: Hug (259px)px;
+top: 3880px;
+left: 756px;
+gap: 60px;
+opacity: 0px;
+color: #2D3748;
+
+  }
+  
+  .text h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .text p {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 10px;
+
+    
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 22.68px;
+text-align: left;
+
+  }
+  
+  .text a {
+    color: #ff4081;
+    text-decoration: none;
+  }
+  
+  .more-studies {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .more-studies a {
+    color: #ff4081;
+    text-decoration: none;
+    
+font-family: Inter;
+font-size: 20px;
+font-weight: 600;
+line-height: 27.3px;
+text-align: left;
+float: right;
+padding: 2px;
+
+
+  }
+  .arr2{
+    width: 193.8px;
+height: 281.62px;
+margin-top: -725px;
+margin-left: 810px;
+gap: 0px;
+opacity: 0px;
+
+
+z-index: 1;
+  }
+
+
+  .case-study-one {
+    background-color: #e0f7fa; 
+  }
+  
+  .case-study-two {
+    background-color: #e8f5e9; 
+  }
+  
+  .case-study-three {
+    background-color: #fce4ec; 
+  }
+
+
+
+
+
